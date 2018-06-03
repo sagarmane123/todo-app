@@ -12,6 +12,8 @@
             "element",
             "app",
             "kebab-case"
-        ]
+        ],
+       "no-inferrable-types" : false,
+       "prefer-const" : false
     }
 }
